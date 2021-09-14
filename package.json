@@ -1,0 +1,31 @@
+{
+  "name": "platita-bot",
+  "version": "1.0.0",
+  "description": "A simple custom discord bot to entertain people and automatize things.",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.6.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "node": "16.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InahoAZ/platita-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InahoAZ/platita-bot/issues"
+  },
+  "homepage": "https://github.com/InahoAZ/platita-bot#readme"
+}
